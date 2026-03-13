@@ -2,7 +2,7 @@
   <img src="https://github.com/shadcn.png" alt="Avatar" width="80" style="border-radius: 50%" />
 </p>
 
-<h1 align="center"> Hi, I'm [Your Name]</h1>
+<h1 align="center"> Hi, I'm Jingqi Wang</h1>
 <p align="center">Building things that matter.</p>
 
 <p align="left">
